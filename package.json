@@ -1,0 +1,11 @@
+{
+  "name": "print-it",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node /assets/script.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
